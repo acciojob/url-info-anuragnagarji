@@ -1,3 +1,3 @@
 //your JS code here. If required.
-let str= window.location.href;
+let str= document.location.href;
 alert("The length of the URL is:"+(str.length));
